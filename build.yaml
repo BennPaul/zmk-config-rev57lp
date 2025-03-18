@@ -15,5 +15,6 @@
 include:
   - board: nice_nano
     shield: rev57lp
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
+#für studio:
+#    snippet: studio-rpc-usb-uart
+#    cmake-args: -DCONFIG_ZMK_STUDIO=y
